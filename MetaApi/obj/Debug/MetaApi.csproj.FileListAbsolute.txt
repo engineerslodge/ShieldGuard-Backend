@@ -1,0 +1,781 @@
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\obj\Debug\MetaApi.csproj.CoreCompileInputs.cache
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\MetaApi.dll.config
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\MetaApi.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\MetaApi.pdb
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\csc.exe
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\csc.exe.config
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\csc.rsp
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\csi.exe
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\csi.exe.config
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\csi.rsp
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.AppContext.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.Console.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\vbc.exe
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\vbc.exe.config
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\vbc.rsp
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\netstandard.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.AppContext.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Collections.Concurrent.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Collections.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Collections.NonGeneric.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Collections.Specialized.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.ComponentModel.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.ComponentModel.Primitives.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Console.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Data.Common.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Diagnostics.Contracts.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Diagnostics.Debug.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Diagnostics.Process.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Diagnostics.Tools.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Diagnostics.Tracing.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Drawing.Primitives.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Dynamic.Runtime.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Globalization.Calendars.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Globalization.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Globalization.Extensions.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.IO.Compression.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.IO.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.IO.FileSystem.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.IO.IsolatedStorage.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.IO.Pipes.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Linq.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Linq.Expressions.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Linq.Parallel.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Linq.Queryable.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Net.Http.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Net.NameResolution.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Net.NetworkInformation.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Net.Ping.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Net.Primitives.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Net.Requests.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Net.Security.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Net.Sockets.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Net.WebSockets.Client.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Net.WebSockets.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.ObjectModel.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Reflection.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Reflection.Extensions.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Reflection.Primitives.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Resources.Reader.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Resources.ResourceManager.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Resources.Writer.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Runtime.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Runtime.Extensions.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Runtime.Handles.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Runtime.InteropServices.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Runtime.Numerics.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Security.Claims.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Security.Principal.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Security.SecureString.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Text.Encoding.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Text.RegularExpressions.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Threading.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Threading.Overlapped.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Threading.Tasks.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Threading.Thread.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Threading.ThreadPool.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Threading.Timer.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.ValueTuple.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Xml.ReaderWriter.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Xml.XDocument.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Xml.XmlDocument.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Xml.XmlSerializer.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Xml.XPath.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Antlr3.Runtime.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Microsoft.Owin.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Newtonsoft.Json.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Owin.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Stripe.net.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Web.Cors.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Web.Http.Cors.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Web.Http.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Web.Optimization.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\WebGrease.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Microsoft.Owin.xml
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Stripe.net.xml
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Web.Http.xml
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Web.Http.Cors.xml
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Web.Optimization.xml
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Newtonsoft.Json.xml
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Antlr3.Runtime.pdb
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\obj\Debug\MetaApi.csproj.CopyComplete
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\obj\Debug\MetaApi.dll
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\obj\Debug\MetaApi.pdb
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\obj\Debug\MetaApi.csprojAssemblyReference.cache
+C:\Users\Engineerslodge\source\repos\MetaApi\MetaApi\bin\Swashbuckle.Core.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\obj\Debug\MetaApi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\obj\Debug\MetaApi.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\obj\Debug\MetaApi.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\MetaApi.dll.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\MetaApi.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\MetaApi.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\csc.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\csc.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\csc.rsp
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\csi.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\csi.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\csi.rsp
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.Console.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\vbc.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\vbc.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\vbc.rsp
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\netstandard.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.AppContext.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Collections.Concurrent.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Collections.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Collections.NonGeneric.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Collections.Specialized.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.ComponentModel.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.ComponentModel.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Console.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Data.Common.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Diagnostics.Contracts.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Diagnostics.Debug.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Diagnostics.Process.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Diagnostics.Tools.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Diagnostics.TraceSource.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Diagnostics.Tracing.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Drawing.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Dynamic.Runtime.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Globalization.Calendars.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Globalization.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Globalization.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.IO.Compression.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.IO.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.IO.FileSystem.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.IO.IsolatedStorage.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.IO.Pipes.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Linq.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Linq.Expressions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Linq.Parallel.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Linq.Queryable.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Net.Http.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Net.NameResolution.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Net.NetworkInformation.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Net.Ping.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Net.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Net.Requests.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Net.Security.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Net.Sockets.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Net.WebHeaderCollection.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Net.WebSockets.Client.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Net.WebSockets.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.ObjectModel.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Reflection.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Reflection.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Reflection.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Resources.Reader.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Resources.ResourceManager.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Resources.Writer.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Runtime.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Runtime.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Runtime.Handles.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Runtime.InteropServices.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Runtime.Numerics.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Runtime.Serialization.Json.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Security.Claims.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Security.Cryptography.Csp.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Security.Principal.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Security.SecureString.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Text.Encoding.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Text.Encoding.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Text.RegularExpressions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Threading.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Threading.Overlapped.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Threading.Tasks.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Threading.Thread.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Threading.ThreadPool.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Threading.Timer.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.ValueTuple.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Xml.ReaderWriter.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Xml.XDocument.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Xml.XmlDocument.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Xml.XmlSerializer.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Xml.XPath.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Antlr3.Runtime.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Microsoft.Owin.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Newtonsoft.Json.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Owin.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Stripe.net.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Swashbuckle.Core.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Web.Cors.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Web.Http.Cors.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Web.Http.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Web.Optimization.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\WebGrease.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Microsoft.Owin.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Stripe.net.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Web.Http.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Web.Http.Cors.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Web.Optimization.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Newtonsoft.Json.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\obj\Debug\MetaApi.csproj.CopyComplete
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ESAME API\MetaApi\obj\Debug\MetaApi.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\MetaApi.dll.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\MetaApi.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\MetaApi.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\csc.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\csc.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\csc.rsp
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\csi.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\csi.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\csi.rsp
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.Console.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\vbc.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\vbc.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\vbc.rsp
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\netstandard.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.AppContext.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Collections.Concurrent.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Collections.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Collections.NonGeneric.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Collections.Specialized.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.ComponentModel.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.ComponentModel.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Console.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Data.Common.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Diagnostics.Contracts.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Diagnostics.Debug.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Diagnostics.Process.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Diagnostics.Tools.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Diagnostics.TraceSource.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Diagnostics.Tracing.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Drawing.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Dynamic.Runtime.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Globalization.Calendars.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Globalization.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Globalization.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.IO.Compression.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.IO.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.IO.FileSystem.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.IO.IsolatedStorage.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.IO.Pipes.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Linq.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Linq.Expressions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Linq.Parallel.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Linq.Queryable.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Net.Http.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Net.NameResolution.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Net.NetworkInformation.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Net.Ping.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Net.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Net.Requests.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Net.Security.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Net.Sockets.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Net.WebHeaderCollection.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Net.WebSockets.Client.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Net.WebSockets.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.ObjectModel.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Reflection.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Reflection.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Reflection.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Resources.Reader.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Resources.ResourceManager.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Resources.Writer.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Runtime.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Runtime.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Runtime.Handles.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Runtime.InteropServices.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Runtime.Numerics.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Runtime.Serialization.Json.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Security.Claims.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Security.Cryptography.Csp.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Security.Principal.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Security.SecureString.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Text.Encoding.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Text.Encoding.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Text.RegularExpressions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Threading.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Threading.Overlapped.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Threading.Tasks.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Threading.Thread.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Threading.ThreadPool.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Threading.Timer.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.ValueTuple.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Xml.ReaderWriter.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Xml.XDocument.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Xml.XmlDocument.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Xml.XmlSerializer.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Xml.XPath.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Antlr3.Runtime.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Microsoft.Owin.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Newtonsoft.Json.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Owin.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Stripe.net.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Swashbuckle.Core.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Web.Cors.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Web.Http.Cors.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Web.Http.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Web.Optimization.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\WebGrease.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Microsoft.Owin.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Stripe.net.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Web.Http.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Web.Http.Cors.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Web.Optimization.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Newtonsoft.Json.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\obj\Debug\MetaApi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\obj\Debug\MetaApi.csproj.CopyComplete
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\obj\Debug\MetaApi.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\obj\Debug\MetaApi.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\EliteBankingApi\MetaApi\obj\Debug\MetaApi.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\csc.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\csc.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\csc.rsp
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\csi.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\csi.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\csi.rsp
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.Console.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\vbc.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\vbc.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\vbc.rsp
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\netstandard.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.AppContext.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Collections.Concurrent.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Collections.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Collections.NonGeneric.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Collections.Specialized.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.ComponentModel.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.ComponentModel.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Console.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Data.Common.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Diagnostics.Contracts.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Diagnostics.Debug.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Diagnostics.Process.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Diagnostics.Tools.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Diagnostics.TraceSource.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Diagnostics.Tracing.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Drawing.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Dynamic.Runtime.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Globalization.Calendars.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Globalization.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Globalization.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.IO.Compression.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.IO.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.IO.FileSystem.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.IO.IsolatedStorage.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.IO.Pipes.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Linq.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Linq.Expressions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Linq.Parallel.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Linq.Queryable.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Net.Http.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Net.NameResolution.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Net.NetworkInformation.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Net.Ping.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Net.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Net.Requests.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Net.Security.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Net.Sockets.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Net.WebHeaderCollection.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Net.WebSockets.Client.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Net.WebSockets.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.ObjectModel.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Reflection.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Reflection.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Reflection.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Resources.Reader.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Resources.ResourceManager.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Resources.Writer.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Runtime.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Runtime.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Runtime.Handles.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Runtime.InteropServices.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Runtime.Numerics.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Runtime.Serialization.Json.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Security.Claims.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Security.Cryptography.Csp.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Security.Principal.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Security.SecureString.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Text.Encoding.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Text.Encoding.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Text.RegularExpressions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Threading.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Threading.Overlapped.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Threading.Tasks.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Threading.Thread.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Threading.ThreadPool.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Threading.Timer.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.ValueTuple.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Xml.ReaderWriter.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Xml.XDocument.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Xml.XmlDocument.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Xml.XmlSerializer.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Xml.XPath.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Antlr3.Runtime.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Microsoft.Owin.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Newtonsoft.Json.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Owin.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Stripe.net.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Swashbuckle.Core.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Web.Cors.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Web.Http.Cors.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Web.Http.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Web.Optimization.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\WebGrease.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Microsoft.Owin.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Stripe.net.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Web.Http.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Web.Http.Cors.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Web.Optimization.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Newtonsoft.Json.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\obj\Debug\MetaApi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\obj\Debug\MetaApi.csproj.CopyComplete
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\MetaApi.dll.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\MetaApi.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\MetaApi.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\obj\Debug\MetaApi.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\obj\Debug\MetaApi.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\PayPalCheckoutSdk.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\PayPalHttp-Dotnet.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Xceed.Document.NET.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Xceed.Words.NET.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\AngleSharp.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\DocumentFormat.OpenXml.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\DocumentFormat.OpenXml.Framework.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\HtmlToOpenXml.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Buffers.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Memory.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Numerics.Vectors.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\AngleSharp.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\DocumentFormat.OpenXml.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\DocumentFormat.OpenXml.Framework.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\HtmlToOpenXml.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Buffers.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Memory.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Numerics.Vectors.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Text.Encoding.CodePages.xml
