@@ -784,7 +784,7 @@ namespace MetaApi.Controllers
         }
 
 
-        private const string StripeSecretKey = "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"; // Replace 'sk_test_XXXXXX' with your Stripe secret key
+        //private const string StripeSecretKey = "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"; // Replace 'sk_test_XXXXXX' with your Stripe secret key
         public class PaymentRequestData
         {
             public string Token { get; set; }
