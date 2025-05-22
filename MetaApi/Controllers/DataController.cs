@@ -212,7 +212,7 @@ namespace MetaApi.Controllers
                 if (check == "" || check == "Failed")
                 {
                     var newID = System.Guid.NewGuid();
-                    string query = "insert into tblaccount(accesskey,[token],[FullName],[email],[Password],[Phone],[Keydate],[OTP],[isActive],role,ispaid,subplan,startdate,enddate) values('" + newID + "','" + newID + "','" + model.FullName + "','" + model.Email + "','" + model.Password + "','" + model.phone + "','" + DateTime.Now.ToShortDateString() + "','*890jhhjfhjfv3#','1','Customer','1','FREE','" + DateTime.Now.ToShortDateString() + "','" + DateTime.Now.AddDays(30) + "')";
+                    string query = "insert into tblaccount(accesskey,[token],[FullName],[email],[Password],[Phone],[Keydate],[OTP],[isActive],role,ispaid,subplan,startdate,enddate) values('" + newID + "','" + newID + "','" + model.FullName + "','" + model.Email + "','" + services.HashPassword(model.Password) + "','" + model.phone + "','" + DateTime.Now.ToShortDateString() + "','*890jhhjfhjfv3#','1','Customer','1','FREE','" + DateTime.Now.ToShortDateString() + "','" + DateTime.Now.AddDays(30) + "')";
                     string result = services.SqlCommandInformation(query);
                     if (result == "Successfull")
                     {
@@ -250,38 +250,51 @@ namespace MetaApi.Controllers
         {
             try
             {
-                string query = "select token,Fullname,email,role,phone,ispaid from tblaccount where email='" + model.Email + "' and password ='" + model.Password + " ' and isactive ='1'";
+                string hash = services.ReadSection("select password from tblaccount where email ='"+model.Email+"'");
 
-                string result = services.ReadSection(query);
-                if (result != "Failed")
+                bool isMatch = services.VerifyPassword(model.Password, hash);
+                if (isMatch)
                 {
-                    var newid = Guid.NewGuid().ToString();
-                    services.SqlCommandInformation("update tblaccount set token ='" + newid + "' where email='" + model.Email + "' ");
+                    string query = "select token,Fullname,email,role,phone,ispaid from tblaccount where email='" + model.Email + "' and password ='" + hash + " ' and isactive ='1'";
 
-                    DataTable db = new DataTable();
-                    using (var con = new SqlConnection(ConfigurationManager.ConnectionStrings["ConnectionDB"].ConnectionString))
-                    using (var cmd = new SqlCommand(query, con))
-                    using (var da = new SqlDataAdapter(cmd))
+                    string result = services.ReadSection(query);
+                    if (result != "Failed")
                     {
-                        cmd.CommandType = CommandType.Text;
-                        da.Fill(db);
+                        var newid = Guid.NewGuid().ToString();
+                        services.SqlCommandInformation("update tblaccount set token ='" + newid + "' where email='" + model.Email + "' ");
+
+                        DataTable db = new DataTable();
+                        using (var con = new SqlConnection(ConfigurationManager.ConnectionStrings["ConnectionDB"].ConnectionString))
+                        using (var cmd = new SqlCommand(query, con))
+                        using (var da = new SqlDataAdapter(cmd))
+                        {
+                            cmd.CommandType = CommandType.Text;
+                            da.Fill(db);
+                        }
+
+                        string mail = @"<div>
+                        <p>Hello Shield Guard Member,</p>
+                        <p>You've signed in to your account at " + DateTime.Now.ToString() + "." + @" If this wasn't you, please <a href='https://www.shieldguardai.com/forgot'>Click Here </a> to reset your password.</p>
+                    </div>
+                    ";
+                                            string mailReply = MailTemplates(mail, "Login Notification", model.Email, "Shield Guard Notification");
+
+                        return Ok(db);
+
+
                     }
-
-                    string mail = @"<div>
-    <p>Hello Shield Guard Member,</p>
-    <p>You've signed in to your account at " + DateTime.Now.ToString() + "." + @" If this wasn't you, please <a href='https://www.shieldguardai.com/forgot'>Click Here </a> to reset your password.</p>
-</div>
-";
-                    string mailReply = MailTemplates(mail, "Login Notification", model.Email, "Shield Guard Notification");
-
-                    return Ok(db);
-
-
+                    else
+                    {
+                        return BadRequest("Invalid Login Details");
+                    }
                 }
                 else
                 {
+                    // Invalid password
                     return BadRequest("Invalid Login Details");
                 }
+
+                
             }
             catch (Exception ex)
             {
@@ -784,7 +797,7 @@ namespace MetaApi.Controllers
         }
 
 
-        //private const string StripeSecretKey = "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"; // Replace 'sk_test_XXXXXX' with your Stripe secret key
+        private const string StripeSecretKey = "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"; // Replace 'sk_test_XXXXXX' with your Stripe secret key
         public class PaymentRequestData
         {
             public string Token { get; set; }

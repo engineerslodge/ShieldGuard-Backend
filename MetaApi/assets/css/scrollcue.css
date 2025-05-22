@@ -1,16 +1,4 @@
-/**-----------------------
 
- scrollCue.js - ver.2.0.0
- URL : https://prjct-samwest.github.io/scrollCue/
-
- created by SamWest.
- Copyright (c) 2020 SamWest.
- This plugin is released under the MIT License.
-
- -----------------------**/
-/**  ---------------
-     fadeIn
-*/
 [data-cue="fadeIn"], [data-cues="fadeIn"] > * {
     opacity: 0;
   }

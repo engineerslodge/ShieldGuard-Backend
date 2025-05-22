@@ -17,8 +17,8 @@ namespace MetaApi.Controllers
     [AllowAnonymous]
     public class PayPalController : ApiController
     {
-        //private const string clientId = "Ae_ebUu5AWofWnBLfqPEHcTl0SKsyymN62f7YpfHGD78RDIGNtvYv6ter8fq38r4Mob7MBIENHdfOHsf";
-        //private const string clientSecret = "ELzWzHLDcmY5WvnmwItnIyWMjJFiFHuGj9MZvC5X6prkniBA4iI8h4yayzZFvelF2p0icuL2Iw50ZW09";
+        private const string clientId = "Ae_ebUu5AWofWnBLfqPEHcTl0SKsyymN62f7YpfHGD78RDIGNtvYv6ter8fq38r4Mob7MBIENHdfOHsf";
+        private const string clientSecret = "ELzWzHLDcmY5WvnmwItnIyWMjJFiFHuGj9MZvC5X6prkniBA4iI8h4yayzZFvelF2p0icuL2Iw50ZW09";
 
         private static string baseUrl = "https://api-m.sandbox.paypal.com"; // Use "https://api-m.paypal.com" for live env. //https://api-m.sandbox.paypal.com
 

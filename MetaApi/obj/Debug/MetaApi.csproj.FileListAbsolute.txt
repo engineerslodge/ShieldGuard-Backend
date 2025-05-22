@@ -779,3 +779,4 @@ C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\Syst
 C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Memory.xml
 C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Numerics.Vectors.xml
 C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\bin\System.Text.Encoding.CodePages.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\ShieldGuide\MetaApi\obj\Debug\MetaApi.csprojAssemblyReference.cache

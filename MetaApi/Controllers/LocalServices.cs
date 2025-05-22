@@ -15,6 +15,7 @@ using System.Web.Http;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Threading.Tasks;
+using System.Security.Cryptography;
 
 namespace MetaApi.Controllers
 {
@@ -481,7 +482,47 @@ namespace MetaApi.Controllers
 
 
             return Jasonresult;
+
         }
+
+        public string HashPassword(string password)
+        {
+            byte[] salt = new byte[16];
+            using (var rng = RandomNumberGenerator.Create())
+            {
+                rng.GetBytes(salt);
+            }
+
+            // Use 10000 iterations (you can increase for more security)
+            var pbkdf2 = new Rfc2898DeriveBytes(password, salt, 10000); // Compatible with all .NET versions
+            byte[] hash = pbkdf2.GetBytes(32);
+
+            byte[] hashBytes = new byte[48];
+            Array.Copy(salt, 0, hashBytes, 0, 16);
+            Array.Copy(hash, 0, hashBytes, 16, 32);
+
+            return Convert.ToBase64String(hashBytes);
+        }
+
+
+        public  bool VerifyPassword(string enteredPassword, string storedHash)
+        {
+            byte[] hashBytes = Convert.FromBase64String(storedHash);
+            byte[] salt = new byte[16];
+            Array.Copy(hashBytes, 0, salt, 0, 16);
+
+            var pbkdf2 = new Rfc2898DeriveBytes(enteredPassword, salt, 10000);
+            byte[] hash = pbkdf2.GetBytes(32);
+
+            for (int i = 0; i < 32; i++)
+            {
+                if (hashBytes[i + 16] != hash[i])
+                    return false;
+            }
+
+            return true;
+        }
+
 
         public string MailAsync(string EmailTo, string subjectinfor, string MessageBody)
         {
@@ -490,15 +531,15 @@ namespace MetaApi.Controllers
             {
                 MailMessage mail = new MailMessage();
                 mail.To.Add(EmailTo);
-                mail.From = new MailAddress("noreply@engineerslodge.com.ng"); // noreply@engineerslodge.com.ng
+                mail.From = new MailAddress(""); 
                 mail.Subject = subjectinfor;
                 mail.IsBodyHtml = true;
                 mail.Body = MessageBody;
                 SmtpClient smtp = new SmtpClient();
-                smtp.Host = "mail.engineerslodge.com.ng"; // mail.engineerslodge.com.ng
+                smtp.Host = "";//
                 smtp.Port = 587;  //587
                 smtp.UseDefaultCredentials = true;
-                smtp.Credentials = new System.Net.NetworkCredential("noreply@engineerslodge.com.ng", "@Support2020");
+                smtp.Credentials = new System.Net.NetworkCredential("", "");
                 smtp.EnableSsl = true;
 
                 // Set the timeout value to 60 seconds
